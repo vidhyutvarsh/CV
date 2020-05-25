@@ -1,0 +1,58 @@
+body{
+      background-color:#000839;
+      text-align: center;
+      font-family: 'Merriweather', serif;
+}
+
+.top_container{
+      position:relative;
+      padding-top: 113px;
+      height: 538px;
+      background-color: #253b6e;
+      background-image: url(../img/stars13.png);
+}
+
+.tcloud{
+  position: absolute;
+  right: 138px;
+  top: 38px;
+}
+
+.bcloud{
+  position: absolute;
+  left:138px;
+  bottom:213px;
+}
+.ice{
+height: 386px;
+text-align: center;
+position: relative;
+top:13px;
+}
+
+h1{
+      color: #f6f6f6;
+      font-family: 'Sacramento', cursive;
+      font-size: 3em;
+}
+.vela{
+  color: #f6f6f6;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+font-family: 'Montserrat', sans-serif;
+}
+p{
+  color: #355c7d;
+}
+
+
+
+.dp{
+  height: 138px;
+  padding: 13px;
+}
