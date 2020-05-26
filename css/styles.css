@@ -2,6 +2,7 @@ body{
       background-color:#000839;
       text-align: center;
       font-family: 'Merriweather', serif;
+      cursor: url('13h.png'),pointer;
 }
 
 .top_container{
@@ -41,7 +42,7 @@ h1{
 
 h2{
   font-family: 'Montserrat', sans-serif;
-      color:#ff8000;
+      color:#f6f6f6;
 }
 
 h3{
@@ -49,7 +50,7 @@ font-family: 'Montserrat', sans-serif;
       color:#b3daff;
 }
 p{
-  color:#ff9933;
+  color:#355c7d;
 }
 
 
