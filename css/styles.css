@@ -3,6 +3,7 @@ body{
       text-align: center;
       font-family: 'Merriweather', serif;
       cursor: url('13h.png'),pointer;
+      line-height: 2;
 }
 
 .top_container{
@@ -58,4 +59,27 @@ p{
 .dp{
   height: 138px;
   padding: 13px;
+}
+.skill{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.dp{
+  height: 13em;
+}
+.dp13{
+  width: 25%;
+  float: left;
+  margin-right: 38px;
+
+}
+
+.dp23
+{
+  width: 25%;
+  float: right;
+  margin-left: 38px;
+
 }
