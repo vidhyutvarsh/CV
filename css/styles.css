@@ -66,9 +66,7 @@ p{
   text-align: left;
   line-height: 2;
 }
-.dp{
-  height: 13em;
-}
+
 .dp13{
   width: 25%;
   float: left;
@@ -83,3 +81,6 @@ p{
   margin-left: 38px;
 
 }
+.a{
+     color: #11999E;
+} 
